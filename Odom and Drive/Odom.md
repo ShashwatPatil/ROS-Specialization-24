@@ -38,23 +38,33 @@ The type of drive system a robot employs determines its movement capabilities an
       - Wheels move at different speeds or directions for turning.
    - **Advantages:** Simple, inexpensive, maneuverable.
    - **Disadvantages:** Differential steering can lead to inaccuracies, especially when turning on uneven terrain.
-   - **Image:** [Image of Differential Drive Robot]
+    <p align="center">
+        <img src="media/diffdrive.png" alt="Image" style="display: block; margin: 0 auto;">
+    </p>
 
-2. **Ackerman Steering (Car-like):**
+1. **Ackerman Steering (Car-like):**
 
    - **Description:** Similar to car steering, uses a single steering wheel to control the direction of two front wheels.
    - **Movement:** Front wheels turn at different angles for smoother turning.
    - **Advantages:** More stable and efficient for high-speed maneuvers.
    - **Disadvantages:** More complex mechanically compared to differential drive.
-   - **Image:** [Image of Ackerman Steering Robot]
+    <p align="center">
+        <img src="media/Ackerman.png" alt="Image" style="display: block; margin: 0 auto;">
+    </p>
 
-3. **Omni-Directional Drive (Mecanum Wheels):**
+
+
+2. **Omni-Directional Drive (Mecanum Wheels):**
 
    - **Description:** Wheels with rollers angled at 45 degrees, allowing for movement in any direction.
    - **Movement:** Independent control of each wheel enables diagonal and rotational motions.
    - **Advantages:** Excellent maneuverability, ideal for precise positioning tasks.
    - **Disadvantages:** More complex design, potentially higher cost.
-   - **Image:** [Image of Mecanum Drive Robot]
+
+    <p align="center">
+        <img src="media/holonomic.jpg" alt="Image" style="display: block; margin: 0 auto;">
+    </p>
+
 
 
 
