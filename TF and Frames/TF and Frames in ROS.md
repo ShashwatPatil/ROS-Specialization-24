@@ -41,10 +41,11 @@ In a multi-agent environment, TFs are even more critical. They allow each robot 
 - Efficient task distribution
 
 By maintaining accurate and real-time transformations, robots can work synchronously and collaboratively, enhancing the overall efficiency and effectiveness of the robotic system.
-
-<p align="center">
-    <img src="media/coordsystems_img.png" alt="Image" style="display: block; margin: 0 auto;">
-</p>
+<div style="background-color: white; display: inline-block; padding: 10px;">
+    <p align="center">
+        <img src="media/coordsystems_img.png" alt="Image" style="display: block; margin: 0 auto;">
+    </p>
+</div>
 
 ## Importance of Frames
 
