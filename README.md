@@ -2,6 +2,12 @@
 
 #### Kudos to you for choosing ROS Specialization.
 
+<p align="center">
+    <img src="media/img.jpeg" alt="Image"  style="background-color: white; display: block; margin: 0 auto;">
+</p>
+
+
+
 Hope you guys enjoyed learning about ROS in [Summer Camp](https://github.com/Robotics-Club-IIT-BHU/Robotics-Camp-2024/tree/main).
 
 
