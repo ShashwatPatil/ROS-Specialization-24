@@ -48,7 +48,7 @@ Gazebo plugins are software modules that extend the functionalities of Gazebo. T
 * **Community-driven development:** Many open-source Gazebo plugins are available for various functionalities.
 
 
-This is a basic introduction to RViz, Gazebo, and Gazebo Plugins.  For further exploration, consider these resources:
+This is a basic introduction to RViz, Gazebo, and Gazebo Plugins.  For further exploration, consider these resources if you want to learn more, mostly you will learn slowly by doing stuff:
 
 * **RViz:** [http://wiki.ros.org/rviz](http://wiki.ros.org/rviz)
 * **Gazebo:** [https://gazebosim.org/](https://gazebosim.org/)
