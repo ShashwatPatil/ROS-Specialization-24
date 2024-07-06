@@ -19,6 +19,11 @@ this is done with the help of sensors like lidar, depth camera etc.***
 3. **Map Building**: Integrating the processed data to build a consistent 2D map.
 4. **Localization**: Determining the robot's position within the map.
 
+**Types of mapping:**
+- [Gmapping](Gmapping.md)
+- [Hector](Hector.md)
+- [Cartographer](Cartographer.md)
+
 
 ## Further Reading
 
